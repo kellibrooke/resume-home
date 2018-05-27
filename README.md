@@ -10,8 +10,8 @@ _This website was used as an exercise to practice CSS styling concepts at Epicod
 
 ## Setup/Installation Requirements
 
-* _Here is the [link](https://github.com/kellibrooke/blog-home) to the GitHub repository for this site_
-* _Here is the [link](https://kellibrooke.github.io/blog-home/) to the live site on GitHub_
+* _Here is the [link](https://github.com/kellibrooke/resume-home) to the GitHub repository for this site_
+* _Here is the [link](https://kellibrooke.github.io/resume-home/) to the live site on GitHub_
 
 ## Support and contact details
 
